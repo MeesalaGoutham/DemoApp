@@ -1,0 +1,9 @@
+[{
+ "name": "Mobile App Notifications",
+ "appid": "094d32c9-50e1-40b7-8f31-d9b0405a4fd8",
+ "accesstoken": "7cjdgggc98g6xtnrcpewvkfh",
+ "etanalytics": true,
+ "pianalytics": false,
+ "location": false,
+ "inbox": false
+}]
